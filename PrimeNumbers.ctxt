@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PrimeNumbers
+comment1.params=n
+comment1.target=int\ countFactor(int)
+comment2.params=n
+comment2.target=void\ isPrime(int)
+comment3.params=n
+comment3.target=void\ primeSeries(int)
+comment4.params=n1\ n2
+comment4.target=void\ primeBetweenTwoNumbers(int,\ int)
+comment5.params=
+comment5.target=void\ controller()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
